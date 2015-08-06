@@ -3,7 +3,7 @@
 
 ### 专有名词
 
-##### docker 		<http://chenluois.com>
+##### docker 		<https://www.docker.com/>
 大规模快速部署工具, 方便的持续集成工具,环境和开发部署工具.
 使用镜像和版本控制存储系统.
 也是云计算时代运维的关键工具.
@@ -17,10 +17,10 @@
 
 ##### hadoop 		 大数据基石
 
-##### hive 		<http://chenluois.com>
+##### hive 		
 hadoop 组件里的 数据查询组件,同样支持多种数据源, mysql,xml.
 
-##### hbase 		<http://chenluois.com>
+##### hbase 		
 hadoop 组件里的 数据存储
 hbase使用 php需要加载thrift库,
 java和hadoop的结合最精密.
@@ -28,7 +28,7 @@ java和hadoop的结合最精密.
 ##### hdfs
 hadoop 组件里的  文件存储系统,属于分布式文件存储.
 
-##### mongodb 		<http://chenluois.com>
+##### mongodb 		<http://www.infoq.com/articles/mongodb-java-orm-bcd>
 java上有完整的 访问库,包括了简单的mongodb库官方和
 官方的orm库 ,php的开源库也很多.
 
